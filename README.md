@@ -31,6 +31,7 @@ Surface area
 
 
 ![image](https://github.com/MaciejStrzelczyk/ImageProcessing/assets/94145559/721cfee6-efeb-43ba-9d76-e7eb1813212b)
+
 Representation of the center of the electrode, the farthest pixel, the radius, and the circle
 
 
